@@ -4,6 +4,7 @@
 Trần Hoàng Bảo Ly - 21521109
 
 Lê Thu Hà - 21520800
+
 ---
 ## Instruction
 All documents (slides, practices, notes, results,) for discussion was saved in folder Discussion 2.
