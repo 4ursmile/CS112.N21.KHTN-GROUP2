@@ -1,8 +1,12 @@
 <p float="middle">
-  <img src="https://user-images.githubusercontent.com/105123355/231031527-71e33556-460b-4235-9077-e2f2cea803f6.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/105123355/231031789-23a96651-43d2-43d5-9482-1820efb444e0.svg" width="100" /> 
+  <img src="https://user-images.githubusercontent.com/105123355/231031527-71e33556-460b-4235-9077-e2f2cea803f6.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/105123355/231031789-23a96651-43d2-43d5-9482-1820efb444e0.svg" width="200" /> 
 </p>
+
+
 ---
+
+
 # CS112.N21.KHTN-GROUP 2
 ---
 ## Members of group
